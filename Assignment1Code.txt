@@ -109,7 +109,7 @@ int main() {
         cout << "Enter your choice: ";
         cin >> choice;
 
-        switch (choice) {
+        switch (choice) {   //use of switch statement.
             case 1:
                 cout << "Enter Task ID: ";
                 cin >> id;
